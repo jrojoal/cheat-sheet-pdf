@@ -1,0 +1,328 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pep",
+      "surnames": "Rojo",
+      "title": "Padre, compañero de, freaky, geeky, linuxero, sysadmin, eterno aprendiz de lo que pueda.",
+      "description": "",
+      "location": {
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Vilafranca del Penedès",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/jrojoal"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jrojoal/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Apasionado por la tecnologia, incansable aprendiz, inconformista, ",
+        "fact": "Ya hace años que soy usuario de silla de ruedas a causa de un accidente laboral de tráfico. Desde entonces busco la manera de dar facilidad y practicidad a lo que hago y que mejor filosofía que la de un hacker de la vida para llevar a cabo mi mayor deseo, ser feliz y hacer feliz a mi entorno."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Innovació Local SL",
+          "URL": "http://innovalocal.net"
+        },
+        "roles": [
+          {
+            "name": "SysAdmin",
+            "startDate": "2009-07-01",
+            "challenges": [
+              {
+                "description": "Gestión de sistemas, virtualización y monitorización de infraestructura y sistemas."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Lamp",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              },
+              {
+                "name": "Zabbix",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "CEO",
+          "description": "AWACAT, primer WISP en España de la mano de 3Com. Expertos en telecomunicaciones inalámbricas en entornos rurales."
+        },
+        "type": "launch",
+        "publishingDate": "2000-01-01",
+        "relatedCompetences": [
+          {
+            "name": "Cisco",
+            "type": "technology"
+          },
+          {
+            "name": "DNS",
+            "type": "technology"
+          },
+          {
+            "name": "Lamp",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Enprendimiento"
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "French",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Portuguese",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "RedHat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VirtualBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shellscript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zabbix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "web hosting",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VMWare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Wireshark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Debian",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jrojoal/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Bash",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "Perl",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Customer Service & Support",
+        "DevOps & Infrastructure & SRE",
+        "Developer Evangelist & Advocate",
+        "Full-stack Developer",
+        "IT Manager",
+        "SysAdmin"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "MySQL",
+        "type": "technology"
+      },
+      {
+        "name": "Zabbix",
+        "type": "technology"
+      },
+      {
+        "name": "VMWare",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Bash",
+        "type": "technology"
+      }
+    ]
+  }
+}
